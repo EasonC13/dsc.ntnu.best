@@ -1,1 +1,1 @@
-# reurl_ntnu.best
+# dsc.ntnu.best
